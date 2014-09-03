@@ -4,6 +4,9 @@
 	"version": "0.0.1",
 	"private": true,
 	"dependencies": {
-		"express": "4.8.7"
+		"express": "4.8.7",
+		"jade": "1.6.0",
+		"stylus": "0.48.1",
+		"nib": "1.0.3"
 	}
 }
